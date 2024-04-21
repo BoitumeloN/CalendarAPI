@@ -1,0 +1,28 @@
+.banner h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.banner h2 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    opacity: 0,1;
+    margin: 70px;
+    
+}
+
+.banner p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin: 40px;
+}
+
+.banner {
+    background-position: center;
+    background-size: cover;
+    background-image: url(./css_images/aboutmegt3.jpg);
+    height: 700px;
+}
